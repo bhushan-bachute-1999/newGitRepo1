@@ -1,1 +1,4 @@
 Phone - One plus
+
+Android version - 12
+Memory - 128GB
